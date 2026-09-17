@@ -6,6 +6,7 @@ I transform data into insights through analytics, visualization and machine lear
 
 ---
 
+
 ## 🛠️ Languages & Tools
 
 <!-- Acá vamos a colocar los íconos/badges -->
@@ -14,7 +15,7 @@ I transform data into insights through analytics, visualization and machine lear
   <img src="./assets/Git.svg" width="50">
   <img src="./assets/MySQL-Dark.svg" width="50">
   <img src="./assets/PostgreSQL-Dark.svg" width="50">
-  <img src="./assets/Powerbi.png" width="50">
+  <img src="./assets/Powerbi.png" width="58">
   <img src="./assets/Python-Dark.svg" width="50">
   <img src="./assets/ScikitLearn-Dark.svg" width="50">
   <img src="./assets/VSCode-Dark.svg" width="50">
