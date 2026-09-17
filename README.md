@@ -12,9 +12,9 @@ I transform data into insights through analytics, visualization and machine lear
 <!-- Acá vamos a colocar los íconos/badges -->
 
 <p align="center">
-  <img src="./assets/Git.svg" width="50">
-  <img src="./assets/MySQL-Dark.svg" width="50">
-  <img src="./assets/PostgreSQL-Dark.svg" width="50">
+  <img src="./assets/git.png" width="50">
+  <img src="./assets/mysql.png" width="50">
+  <img src="./assets/postgre.png" width="50">
   <img src="./assets/powerbi.png" width="50">
   <img src="./assets/python.png" width="50">
   <img src="./assets/visual.png" width="50">
