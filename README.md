@@ -20,6 +20,7 @@ I transform data into insights through analytics, visualization and machine lear
   <img src="./assets/ScikitLearn-Dark.svg" width="50">
   <img src="./assets/VSCode-Dark.svg" width="50">
   <img src="./assets/pandas.png" width="50">
+  <img src="./assets/excel.png" width="50">
 </p>
 
 ---
