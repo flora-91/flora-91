@@ -21,6 +21,11 @@ I transform data into insights through analytics, visualization and machine lear
   <img src="./assets/VSCode-Dark.svg" width="50">
   <img src="./assets/pandas.png" width="50">
   <img src="./assets/excel.png" width="50">
+  <img src="./assets/numpy.png" width="50">
+  <img src="./assets/matplotlib.png" width="50">
+  <img src="./assets/seaborn.png" width="50">
+  <img src="./assets/looker.png" width="50">
+  <img src="./assets/colab.png" width="50">
 </p>
 
 ---
