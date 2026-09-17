@@ -15,7 +15,7 @@ I transform data into insights through analytics, visualization and machine lear
   <img src="./assets/Git.svg" width="50">
   <img src="./assets/MySQL-Dark.svg" width="50">
   <img src="./assets/PostgreSQL-Dark.svg" width="50">
-  <img src="./assets/powerbi.png" width="58">
+  <img src="./assets/powerbi.png" width="50">
   <img src="./assets/python.png" width="50">
   <img src="./assets/visual.png" width="50">
   <img src="./assets/excel.png" width="50">
