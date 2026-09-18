@@ -23,6 +23,7 @@ I transform data into insights through analytics, visualization and machine lear
   <img src="./assets/colab.png" width="50"> 
   <img src="./assets/pandas.png" width="50">
   <img src="./assets/numpy.png" width="50">
+  <img src="./assets/matplotlib.png" width="50">
 </p>
 
 ---
