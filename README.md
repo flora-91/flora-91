@@ -32,27 +32,28 @@ I transform data into insights through analytics, visualization and machine lear
 
 ### 🏠 Airbnb — Data Science
 
-Brief description of the project and the main objective.
+Data Science aplicada al análisis del mercado de Airbnb en Buenos Aires, integrando EDA, series temporales, NLP y Machine Learning para analizar rentabilidad, riesgos operativos y experiencia del cliente.
 
-**Tools:** Python · Pandas · Scikit-learn · Machine Learning
+**Tools:** Python · Pandas · Scikit-learn · NLP · Machine Learning · Power BI
 
 [View project →](#)
 
 
 ### 🤖 Project 02 — Machine Learning
 
-Brief description of the project and the main objective.
+Análisis y predicción de Customer Churn mediante Machine Learning supervisado y técnicas de clustering para identificar los factores asociados al abandono y segmentar clientes según sus patrones de comportamiento.
 
-**Tools:** Python · Machine Learning · Scikit-learn
+**Tools:** Python · Pandas · Scikit-learn · Machine Learning · Clustering
 
 [View project →](#)
 
 
-### 🧠 Project 03 — NLP
 
-Brief description of the project and the main objective.
+### 📊 Customer Experience Analytics
 
-**Tools:** Python · NLP · Pandas · Machine Learning
+Solución end-to-end que integra datos operativos, NPS, CSAT y comentarios de clientes mediante ETL, NLP y Machine Learning para analizar la experiencia y predecir clientes detractores.
+
+**Tools:** Python · PostgreSQL · Snowflake · NLP · Machine Learning · Power BI
 
 [View project →](#)
 
