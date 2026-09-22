@@ -93,5 +93,4 @@ Interactive Power BI dashboard for analyzing digital marketing campaign performa
 I'm open to opportunities in **Data Analytics, Data Science, Machine Learning and Business Intelligence**.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lombardiflorencia/)
-- 💻 [GitHub](https://github.com/flora-91)
 - 📧 [Email](mailto:florencialombardi44@gmail.com)
