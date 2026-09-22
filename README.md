@@ -59,35 +59,34 @@ Solución end-to-end que integra datos operativos, NPS, CSAT y comentarios de cl
 
 ---
 
-## 📊 Data Analytics
+## 📊 Data Analytics & Business Intelligence
 
-### 📈 Project 01 — Customer Experience Analytics
+### 🛒 TechCore Analytics — Business Intelligence
 
-Brief description of the project and the main insights.
+Solución de Business Intelligence para analizar el desempeño comercial de TechCore, integrando limpieza y transformación de datos, modelado dimensional y un dashboard interactivo para analizar ventas, productos, clientes y evolución del negocio.
 
-**Tools:** Power BI · SQL · Excel
+**Tools:** Python · Pandas · Power BI · DAX · Data Modeling
 
-[View project →](#)
-
-
-### 📊 Project 02 — Digital Campaign Performance
-
-Brief description of the project and the main insights.
-
-**Tools:** Power BI · Excel · Data Visualization
-
-[View project →](#)
+[View project →](https://github.com/flora-91/BUSINESS-INTELLIGENCE-Project-TechCore-Analytics)
 
 
-### 📉 Project 03 — Business Analytics
+### 📈 Sales & Marketing Analysis
 
-Brief description of the project and the main insights.
+Análisis exploratorio de datos de ventas, clientes y marketing para identificar patrones comerciales, analizar el comportamiento de productos y categorías y generar insights sobre el desempeño del negocio.
 
-**Tools:** SQL · Power BI · Data Analysis
+**Tools:** Python · Pandas · NumPy · Matplotlib · EDA · Data Integration
 
-[View project →](#)
+[View project →](https://github.com/flora-91/DATA-ANALYSIS-Sales-Marketing-Analysis)
 
----
+
+### 📣 Digital Campaign Performance
+
+Dashboard interactivo en Power BI para analizar el rendimiento de campañas de marketing digital, explorando inversión, conversiones, CTR y comportamiento de diferentes segmentos de audiencia.
+
+**Tools:** Power BI · DAX · Data Visualization · Marketing Analytics
+
+[View project →](https://github.com/flora-91/BUSINESS-INTELLIGENCE-Digital-Campaign-Performance)
+
 
 ## 📫 Let's Connect
 
