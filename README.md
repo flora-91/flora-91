@@ -30,9 +30,9 @@ I transform data into insights through analytics, visualization and machine lear
 
 ## 🧠 Data Science
 
-### 🏠 Airbnb — Data Science
+### 🏠 Airbnb Analytics
 
-Data Science aplicada al análisis del mercado de Airbnb en Buenos Aires, integrando EDA, series temporales, NLP y Machine Learning para analizar rentabilidad, riesgos operativos y experiencia del cliente.
+Data Science applied to the analysis of the Airbnb market in Buenos Aires, integrating EDA, time series, NLP and Machine Learning to analyze profitability, operational risks and customer experience.
 
 **Tools:** Python · Pandas · Scikit-learn · NLP · Machine Learning · Power BI
 
@@ -41,7 +41,7 @@ Data Science aplicada al análisis del mercado de Airbnb en Buenos Aires, integr
 
 ### 🤖 Customer Churn  — Predictive mnodeling
 
-Análisis y predicción de Customer Churn mediante Machine Learning supervisado y técnicas de clustering para identificar los factores asociados al abandono y segmentar clientes según sus patrones de comportamiento.
+Customer Churn analysis and prediction using supervised Machine Learning and clustering techniques to identify factors associated with customer attrition and segment customers based on behavioral patterns.
 
 **Tools:** Python · Pandas · Scikit-learn · Machine Learning · Clustering
 
@@ -51,7 +51,7 @@ Análisis y predicción de Customer Churn mediante Machine Learning supervisado 
 
 ### 📊 Customer Experience Analytics
 
-Solución end-to-end que integra datos operativos, NPS, CSAT y comentarios de clientes mediante ETL, NLP y Machine Learning para analizar la experiencia y predecir clientes detractores.
+End-to-end solution integrating operational data, NPS, CSAT and customer feedback through ETL, NLP and Machine Learning to analyze customer experience and predict detractors.
 
 **Tools:** Python · PostgreSQL · Snowflake · NLP · Machine Learning · Power BI
 
@@ -63,7 +63,7 @@ Solución end-to-end que integra datos operativos, NPS, CSAT y comentarios de cl
 
 ### 🛒 TechCore Analytics — Business Intelligence
 
-Solución de Business Intelligence para analizar el desempeño comercial de TechCore, integrando limpieza y transformación de datos, modelado dimensional y un dashboard interactivo para analizar ventas, productos, clientes y evolución del negocio.
+Business Intelligence solution for analyzing TechCore's commercial performance, integrating data transformation, dimensional modeling and an interactive dashboard to analyze sales, products, customers and business performance.
 
 **Tools:** Python · Pandas · Power BI · DAX · Data Modeling
 
@@ -72,7 +72,7 @@ Solución de Business Intelligence para analizar el desempeño comercial de Tech
 
 ### 📈 Sales & Marketing Analysis
 
-Análisis exploratorio de datos de ventas, clientes y marketing para identificar patrones comerciales, analizar el comportamiento de productos y categorías y generar insights sobre el desempeño del negocio.
+Exploratory analysis of sales, customer and marketing data to identify commercial patterns, analyze product and category performance and generate business insights.
 
 **Tools:** Python · Pandas · NumPy · Matplotlib · EDA · Data Integration
 
@@ -81,7 +81,7 @@ Análisis exploratorio de datos de ventas, clientes y marketing para identificar
 
 ### 📣 Digital Campaign Performance
 
-Dashboard interactivo en Power BI para analizar el rendimiento de campañas de marketing digital, explorando inversión, conversiones, CTR y comportamiento de diferentes segmentos de audiencia.
+Interactive Power BI dashboard for analyzing digital marketing campaign performance, including investment, conversions, CTR and audience segmentation.
 
 **Tools:** Power BI · DAX · Data Visualization · Marketing Analytics
 
@@ -90,4 +90,8 @@ Dashboard interactivo en Power BI para analizar el rendimiento de campañas de m
 
 ## 📫 Let's Connect
 
-[LinkedIn](#) · [GitHub](#) · [Email](#)
+I'm open to opportunities in **Data Analytics, Data Science, Machine Learning and Business Intelligence**.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lombardiflorencia/)
+- 💻 [GitHub](https://github.com/flora-91)
+- 📧 [Email](mailto:florencialombardi44@gmail.com)
